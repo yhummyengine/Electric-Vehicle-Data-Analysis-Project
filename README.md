@@ -8,7 +8,7 @@
 
 ### Project Overview 
 
-This Data Analysis Project details a comprehensive dashboard of BEVs (Battery Electric Vehicles) & PHEVs (Plug-in Hybrid Electric Vehicle) and their growth and usage during a specified time period
+This Data Analysis Project details a comprehensive dashboard of BEVs (Battery Electric Vehicles) & PHEVs (Plug-in Hybrid Electric Vehicle) and their growth and usage during a specified time-period
 
 ### Data Source
 
