@@ -12,7 +12,7 @@ This Data Analysis Project details a comprehensive dashboard of BEVs (Battery El
 
 ### Data Source
 
-Electric Vehicles Dataset: The Primary Dataset used is "Electric_Vehicle_Population_Data.csv" containing details of BEVs and PHEVs within a set time frame
+Electric Vehicles Dataset: The Primary Dataset used is "Electric_Vehicle_Population_Data.csv" (https://docs.google.com/spreadsheets/d/1zrI6hQb27hXJzVYfffZF5_MxtXzhRHEN1bDPpfElIkA/edit?usp=sharing) containing details of BEVs and PHEVs within a set time frame
 
 
 ### Tools
